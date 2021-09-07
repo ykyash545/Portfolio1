@@ -8,7 +8,11 @@
   <br>
   </body>
   <h1>ABOUT PROJECT</h1>
-             <body>I Have Created this projec using my Html and CSS skills.
+             <body><p>I Have Created this projec using my Html and CSS skills.
   this project is not basic like others i have added gradient translicent background
-  to give it a modern look here is the screeenshot of the completed project
+  to give it a modern look here is the screeenshot of the completed project</p>
+  <img src="./demo.png">
+  <br>
+  </body>
+  
   
